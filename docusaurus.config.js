@@ -362,6 +362,11 @@ module.exports = {
           ]
         },
         {
+          label: "Notifications",
+          href: 'https://polygon.technology/notifications/',
+          position: "right",
+        },
+        {
           label: "FAQs",
           position: "right",
           items: [
