@@ -239,7 +239,7 @@ module.exports = {
       indexName: "matic_developer",
       appId: '16JCDEHCCN',
       apiKey: "757c19b23127e9c6959da7f13b71cfab",
-      contextualSearch: false,
+      contextualSearch: true,
       algoliaOptions: {},
     },
     navbar: {
