@@ -29,6 +29,7 @@ To integrate your dApp with Oracles on Polygon, you can choose to go with one of
  4. [Razor](razor.md)
  5. [Tellor](tellor.md)
  6. [UMA](optimisticoracle.md)
+ 7. [Witnet](witnet.md)
 
 ## Resources
 
